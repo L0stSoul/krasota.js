@@ -20,8 +20,9 @@
   "dependencies": {
     "coa": "0.3.x",
     "q": "0.7.x",
-    "ometajs": "2.1.x",
-    "eyes": "0.1.x"
+    "ometajs": "3.2.4",
+    "eyes": "0.1.x",
+    "fstream-ignore": "0.0.6"
   },
   "devDependencies": {
     "mocha": "1.0.x"
